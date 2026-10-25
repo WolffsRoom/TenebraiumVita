@@ -1,0 +1,9 @@
+*.vpk
+*.pck
+*.exe
+*.dll
+*.zip
+game_data/
+VitaFiles/
+__pycache__/
+build/
